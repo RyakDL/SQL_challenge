@@ -20,4 +20,6 @@ References
     Reference on Group By command in SQL.
 3) https://app.quickdatabasediagrams.com, accessed 7/31/23.
     Used to create ERD. 
+4) https://github.com/shreymukh/SQL-Challenge accessed 7/30/23.
+    Looked at this code, but did not use it. 
 
